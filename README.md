@@ -4,4 +4,4 @@ bd: contiene la base de datos
 
 demo: contiene el back
 
-frontDemo: contiene el fron en react
+frontDemo: contiene el front en react
